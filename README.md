@@ -28,3 +28,11 @@ Yuyan Cai Portfolio for the Telling Stories with Data
            - The beeswarm chart uses a series of different-size circles to represent the values of a domain (the ratio of gneral government debt to GDP in this case) in different times. It is obvious for us to see some big circles cluster horizontally in certain positions, which means that in some time periods, the ratios are high for some countries. 
            - The area graph use a shape that looks like a mountain range to represent the changes of a value by time for one row (for one country in this case). The higher the mountain, the higher the value (the ratio of general government debt to GDP)
            - It is more straightforward to see the changes for each country using area graph than beeswarm chart. However, it is easire to see a more general picture of the ratio by beeswarm chart. 
+
+* Assignment 4
+     - Original Data Visualization
+     https://www.commerce.gov/news/blog/2018/08/personal-income-rises-july
+     This data visualization is made by Bureau of Economic Analysis, a chart that is supposed to be concise and meaningful. Even though it successfully meets the requirement of showing the rise of personal income in July, it has some obvious downsides. Therefore, I choose this visualization to improve it. 
+     - Improving Process
+     1. I analyzed the visualization using Data Visualization Effectiveness Profile and find out that the major problems of the visualization are completeness, intuitiveness, and aesthetics. Therefore, I focused on these aspects and drew some drafts.
+     
