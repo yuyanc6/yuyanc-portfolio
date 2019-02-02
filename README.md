@@ -34,5 +34,12 @@ Yuyan Cai Portfolio for the Telling Stories with Data
      https://www.commerce.gov/news/blog/2018/08/personal-income-rises-july
      This data visualization is made by Bureau of Economic Analysis, a chart that is supposed to be concise and meaningful. Even though it successfully meets the requirement of showing the rise of personal income in July, it has some obvious downsides. Therefore, I choose this visualization to improve it. 
      - Improving Process
-     1. I analyzed the visualization using Data Visualization Effectiveness Profile and find out that the major problems of the visualization are completeness, intuitiveness, and aesthetics. Therefore, I focused on these aspects and drew some drafts.
+     1. I analyzed the visualization using Data Visualization Effectiveness Profile and find out that the major problems of the visualization are completeness, intuitiveness, and aesthetics. For example, the original bar chart lacks certain information, the shape of bars needs to be improved, and the data represented by bar needs to be changed. To deal with the above problems, I would stretch the bars, add more distance between months, add a trend line, show numbers on bars,  add more information about indexes, and change the data represented by bars. 
+     2. Based on the desired modifications, I drew some drafts.
+     ![Drafts](https://github.com/yuyanc6/yuyanc-portfolio/blob/master/draft.jpg)
+     Then I showed the drafts to my friends, who are potential audience to the original article. They gave me some feedbacks:
+          i. The data of consumer spending is useless since the article is about personal income. The data visualization of consumer spending makes the chart crowded and even counter-intuitive.
+          ii. It is a good idea to combine bar chart and line chart into one chart.
+          iii. The color used by bar chart, which represent real-number DPI, should be shallow.
+     3. Combined the insights given by the potential audience, I made my final data visualization.
      
