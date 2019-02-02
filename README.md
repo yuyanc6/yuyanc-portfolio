@@ -37,13 +37,13 @@ Yuyan Cai Portfolio for the Telling Stories with Data
      - Improving Process  
      1. I analyzed the visualization using Data Visualization Effectiveness Profile and find out that the major problems of the visualization are completeness, intuitiveness, and aesthetics. For example, the original bar chart lacks certain information, the shape of bars needs to be improved, and the data represented by bar needs to be changed. To deal with the above problems, I would stretch the bars, add more distance between months, add a trend line, show numbers on bars,  add more information about indexes, and change the data represented by bars. 
      2. Based on the desired modifications, I drew some drafts.  
-     ![Draft](https://github.com/yuyanc6/yuyanc-portfolio/blob/master/draft.jpg)  
+     ![Draft](https://raw.githubusercontent.com/yuyanc6/yuyanc-portfolio/master/draft.jpg)  
      Then I showed the drafts to my friends, who are potential audience to the original article. They gave me some feedbacks:  
           (1). The data of consumer spending is useless since the article is about personal income. The data visualization of consumer spending makes the chart crowded and even counter-intuitive.  
           (2). It is a good idea to combine bar chart and line chart into one chart.  
           (3). The color used by bar chart, which represent real-number DPI, should be shallow.  
      3. Combined the insights given by the potential audience, I made my final data visualization.  
-     ![FinalVisual](https://github.com/yuyanc6/yuyanc-portfolio/blob/master/DPI2.png)  
+     ![FinalVisual](https://raw.githubusercontent.com/yuyanc6/yuyanc-portfolio/master/DPI2.png)  
      (1). My redesign shows the real number of DPI by bar chart and the growth rate of DPI by line chart.  
      (2). From the bar chart, we can see that the DPI is slowly growing month by month. By adding real number DPI to the chart, misunderstaing can be avoided that the title of the article states rising personal income in July while the chart shows a shorter bar on July. However, the bars of real number DPI are not the main roles of the chart. Thus I used shallow gray for the bars.  
      (3). From the line chart, we can see tht the growth rates of DPI are positive, representing a continuous growth. Meanwhile, the trend of the growth rates can be told that even though the DPI continues growing, the speed of growing becomes slower. The growth rates are the most important information to the readers, so I used dark green color.  
