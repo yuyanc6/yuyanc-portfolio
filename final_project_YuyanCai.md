@@ -1,5 +1,15 @@
 # Final Project Part I
 
+## Project Outline
+Project name: High Risk of Bitcoin  
+Project outline: Introduction to Bitcoin -> Price change of Bitcoin -> Volatility as risk measure -> Risk of exchange hacks -> Conclusion
+
+## High-Level Summary
+High risk of Bitcoin is not acknowledged by many investors
+
+## Project Structure
+![Moodboard](https://raw.githubusercontent.com/yuyanc6/yuyanc-portfolio/master/moodboard.jpg) 
+
 ## Data Source
 * My data is the volatility of Bitcoin, S&P 500 index, EUR/USD, and gold calculated by the weekly-average prices, and the price of Bitcoin. The source of the prices is investing.com. For example, the historical prices of Bitcoin are from: https://www.investing.com/crypto/bitcoin/btc-usd-historical-data
 * Volatility is a measurement of the risk of an asset. It is calculated as the standard deviation. I want to compare the volatility of Bitcoin with other 3 assets in addition to the weekly-averaged prices of Bitcoin to show the high risk of it. The prices of Bitcoin will serve as a background (in line chart with colored fill\ rigion) to give audience an intuitive feeling of the risk.  The volatility of all 4 assets will be shown in line chart. 
@@ -72,5 +82,27 @@ c)	Yes, risk of price is high.
   
 ## Wireframes
 https://preview.shorthand.com/Rjz0DpqzgoG7z8gD
+
+# Final Project Part III
+
+## Intended Audience
+* My intended audience are common investors who at least heard about Bitcoin.  
+* A common investor does not have to hold any investment, but care enough to hear some advices.  
+* My audience might just have heard the word "Bitcoin" but do not know the exact meaning of it. Therefore, in the story I will use one or two sentence to introduce Bitcoin briefly.  
+
+## Work summary
+* In part I, I mainly focused on the story I wanted to tell, including the topic, the story outline, and the data.   
+  * The topic is the risk of Bitcoin, which is something I want to talk about since many perple do not acknowledge the risk of it.   
+  * The story outline frames how I will tell the story. The moodboard contributed a lot since the emotion curve helped me come up with what I needed to include in my story in order to tell it right. The emotion experience includes up and down, which is the classical way to impress an audience. Therefore, instead of just talk about the risks of Bitcoin and let audience experience only the downs, I decided to talk about the high price of Bitcoin and its fortune effect in the beginning to let audience experience the up first.  
+  * The volatility data, which could make audience feel the risk of Bitcoin in the most straight-forward way, cannot be find in the format I wanted. Therefore, I downloaded the historical prices and calculated the volatility myself using the most commonly-used formula.  
+* In part II, I hand drew the sketches and storyboards, and used Tableau to draw the sketches. After getting some feedback from the audience, I made some modifications to the sketches on tableau and finished the first draft of shorthand. 
+  * The hand drawn sketches helped to express to my research audience whay I wanted to show in the charts. However, the sketches are too abstract, so I made the sketches on Tableau. Tableau is a helpful tool to make charts, especially in the case where I already had a desired visualization in head and just needed to present it by a convenient tool. Other tools like RAWgraph does not enable me to customize a visualization, so I chose Tableau.
+  * The interview (user research) was helpful in that it made it possible for my visualization and presentation to be reviewed from other angles. For example, some audience in research told me that they do not understand what is a "hack" to the exchange and why does it matter to the risk of Bitcoin. Therefore, I added some content to explain the hacks in the context of Bitcoin exchange. Another example it the little Bitcoin icon I added on the volatility graph. Some audience told me that my original volatility chart was kind of a mess with all the lines that could ne be easily told which is Bitcoin. Therefore, I change the colors of all lines to make them more intuitive (green for dollar, yellow for gold, ...). Also, I added a little Bitcoin icon at the end of the Bitcoin line to emphasize it and make it easier for the audien to identify the most important part in the chart.
+  * After all the modifications were done, I integrated the visualization and text into the shorthand. 
+
+## Final Data Story
+https://preview.shorthand.com/Rjz0DpqzgoG7z8gD
+  
+
       
 
