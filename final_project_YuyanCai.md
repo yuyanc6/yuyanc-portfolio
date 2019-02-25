@@ -81,7 +81,7 @@ c)	Yes, risk of price is high.
   * Change the title from “Bitcoin Hacks” to “Bitcoin Stolen in Exchange Hacks”. Increase the overall size of circles. 
   
 ## Wireframes
-https://preview.shorthand.com/Rjz0DpqzgoG7z8gD
+https://preview.shorthand.com/Rjz0DpqzgoG7z8gD (It is the same link as the final shorthand page, since in part II I developed a draft using shorthand and I finished my final shorthand presentation based on the draft.)
 
 # Final Project Part III
 
